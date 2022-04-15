@@ -11,7 +11,7 @@ Hi folks 👋
 
 😁 I have just graduated from University of Cambridge as a PhD in Computer Science (degree received on 22th Oct 2021).
 
-🔭 I’m currently looking for jobs in quant research/dev and machine learning fields.
+🔭 I’m currently working at a startup hedge fund.
 
 🌱 I’m currently learning competitive programming skills used in IOI/ACM-ICPC to compensate for my regret in my past years.
 
